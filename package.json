@@ -1,0 +1,19 @@
+{
+  "name": "intrakit-test",
+  "version": "0.0.1",
+  "description": "Intrakit test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/intrakit-test.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/intrakit-test/issues"
+  },
+  "homepage": "https://github.com/modulesio/intrakit-test#readme"
+}
