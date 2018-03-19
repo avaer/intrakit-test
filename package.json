@@ -1,6 +1,6 @@
 {
   "name": "intrakit-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Intrakit test module",
   "main": "index.js",
   "scripts": {
